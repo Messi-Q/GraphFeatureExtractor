@@ -22,11 +22,11 @@ pip install docopt
 ```
 
 ## Running project
-* To run the program, use this command: python MPGNN.py.
+* To run the program, use this command: python3 MPGNN.py.
 
 Examples:
 ```shell
-python MPGNN.py --random_seed 9930 --thresholds 0.45
+python3 MPGNN.py --random_seed 9930 --thresholds 0.45
 ```
 
 ** Note: we present an example for extracting the graph feature of the reentrancy vulnearbility.
